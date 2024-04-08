@@ -1,0 +1,36 @@
+/* Estilos para la página de la guardería canina "Pampered garden" */
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Encabezados y texto */
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+/* Información de contacto */
+.contact-info {
+    margin-top: 20px;
+}
+
+.contact-info p {
+    font-size: 14px;
+}
